@@ -1,0 +1,25 @@
+{
+  "name": "carapateur",
+  "version": "1.0.0",
+  "description": "el carapator",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megapoi2/Bot_Discord.git"
+  },
+  "author": "megapoi2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megapoi2/Bot_Discord/issues"
+  },
+  "homepage": "https://github.com/megapoi2/Bot_Discord#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  }
+}
